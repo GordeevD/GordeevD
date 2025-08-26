@@ -1,6 +1,6 @@
 ### Hi there 👋
 I’m looking to collaborate on open source project. 
-I’m currently studying Computer Science at a university. 
+I’m currently studying Computer Science at an university. 
 Languges I am expereienced with: JavaScript, Java, Assembly x86, C, C++, C#, Python, Perl, PHP.
 
 <!--
