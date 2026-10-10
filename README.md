@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m looking to collaborate on open source project. 
 I’m currently studying Computer Science at university. 
-Languges I am expereienced with: JavaScript, Java, Assembly x86, C, C++, C#, Python, Perl, PHP.
+Languges I am experienced with: TypeScript, JavaScript, Java, Assembly x86, C, C++, C#, Python, Perl, PHP.
 
 <!--
 **GordeevD/GordeevD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
